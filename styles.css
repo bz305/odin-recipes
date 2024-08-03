@@ -1,0 +1,12 @@
+body {
+    font-family: "Times New Roman" "Georgia" serif;
+}
+
+#index-h1 {
+    text-align: center;
+    line-height: 2;
+}
+
+.index-ol {
+    line-height: 3;
+}
