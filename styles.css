@@ -1,5 +1,6 @@
 body {
     font-family: "Times New Roman" "Georgia" serif;
+    font-size: 18px;
 }
 
 #index-h1 {
@@ -9,4 +10,13 @@ body {
 
 .index-ol {
     line-height: 3;
+    font-size: 50;
+}
+
+h1 {
+    text-align: center;
+}
+
+.sub {
+    font-size: 20;
 }
